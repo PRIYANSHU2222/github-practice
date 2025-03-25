@@ -1,2 +1,2 @@
 # github-practice
-leasrn all concepts of github
+learn all concepts of github
